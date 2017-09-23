@@ -1,4 +1,4 @@
-# specialRelativity_unity
+# specialRelativity_Google_Cardboard
 Length contraction simulator in Unity.
 
 This is a quick project I threw together in finals week some semesters ago. It was meant to give some distraction when needed.
