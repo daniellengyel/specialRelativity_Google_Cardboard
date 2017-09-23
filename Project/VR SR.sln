@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0F0391C3-54C5-1755-4895-0CFA3259B3C8}") = "VR SR", "Assembly-CSharp.csproj", "{94F69D3E-D043-C124-FCFB-777C148F88D6}"
+EndProject
+Project("{0F0391C3-54C5-1755-4895-0CFA3259B3C8}") = "VR SR", "Assembly-CSharp-Editor.csproj", "{A8572F53-B579-1574-5F99-8BF38E0621D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F69D3E-D043-C124-FCFB-777C148F88D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F69D3E-D043-C124-FCFB-777C148F88D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F69D3E-D043-C124-FCFB-777C148F88D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F69D3E-D043-C124-FCFB-777C148F88D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8572F53-B579-1574-5F99-8BF38E0621D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8572F53-B579-1574-5F99-8BF38E0621D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8572F53-B579-1574-5F99-8BF38E0621D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8572F53-B579-1574-5F99-8BF38E0621D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
