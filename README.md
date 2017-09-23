@@ -19,7 +19,7 @@ I also included a flight sciprt. It's fun to let busses and trees fly with and c
 
 Improvements:
 ============================
-• I would like to add the gui back to display the current speed.
+• I would like to add the gui back to display the current speed (percentage of speed of light).
 
 • Maybe make the lenght contraction more pronounced. That would allow the user to observe the effects even better.
 
